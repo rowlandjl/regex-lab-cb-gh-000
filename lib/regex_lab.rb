@@ -19,7 +19,7 @@ def valid_phone_number?(phone)
   if !number.match(/\d{4}/)
     return false
   end
-  true 
+  true
 end
 true
 end
